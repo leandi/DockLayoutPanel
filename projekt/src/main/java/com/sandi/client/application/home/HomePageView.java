@@ -29,5 +29,4 @@ public class HomePageView extends ViewImpl implements HomePagePresenter.MyView {
     public HomePageView(Binder uiBinder) {
         initWidget(uiBinder.createAndBindUi(this));
     }
-
 }
