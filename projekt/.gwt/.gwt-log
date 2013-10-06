@@ -1243,3 +1243,2144 @@ Rebinding com.sandi.client.application.west.WestView_BinderImpl_designTime138079
       Compiling...
          Compilation completed in 0,00 seconds
       Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 0 cached/archived units.  Used 0 / 2940 units from cache.
+Compiling...
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   30% complete (ETR: 8 seconds)
+   40% complete (ETR: 8 seconds)
+   50% complete (ETR: 6 seconds)
+   60% complete (ETR: 4 seconds)
+   70% complete (ETR: 3 seconds)
+   80% complete (ETR: 2 seconds)
+   90% complete (ETR: 1 seconds)
+   100% complete (ETR: 0 seconds)
+   Compilation completed in 13,95 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxGwtTest.java'
+      [ERROR] Line 21: No source code is available for type com.google.gwt.junit.client.GWTTestCase; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxJukitoTest.java'
+      [ERROR] Line 28: No source code is available for type org.jukito.JukitoModule; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.junit.Assert; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,33 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053957647.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053957647.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053957647_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,15 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053963312.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053963312.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053963312_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053992082.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053992082.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381053992082_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,05 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054029462.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054029462.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054029462_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054034376.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054034376.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054034376_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054038186.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054038186.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054038186_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054098819.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054098819.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054098819_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054102203.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054102203.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054102203_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054118324.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054118324.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054118324_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054126272.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054126272.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054126272_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Invoking generator com.google.gwt.uibinder.rebind.UiBinderGenerator
+      [ERROR] Unexpected text in element: "Center": <g:FlowPanel height='388px' styleName='{style.centerPanel}' width='547px'> (:9)
+[ERROR] Deferred binding failed for 'com.sandi.client.application.home.HomePageView.Binder'; expect subsequent failures
+Public resources found in...
+Translatable source found in...
+Found 2940 cached/archived units.  Used 2940 / 2940 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxGwtTest.java'
+      [ERROR] Line 21: No source code is available for type com.google.gwt.junit.client.GWTTestCase; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxJukitoTest.java'
+      [ERROR] Line 28: No source code is available for type org.jukito.JukitoModule; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.junit.Assert; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054408578.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054408578.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054408578_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054409075.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054409075.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054409075_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054417566.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054417566.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054417566_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054479568.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054479568.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054479568_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054481936.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054481936.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054481936_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054482655.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054482655.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054482655_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484002.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484002.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484002_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484699.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484699.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054484699_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054485944.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054485944.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054485944_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054486552.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054486552.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054486552_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054488962.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054488962.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054488962_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054493090.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054493090.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054493090_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054496769.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054496769.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054496769_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054497598.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054497598.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054497598_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498357.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498357.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498357_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498879.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498879.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054498879_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054510502.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054510502.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054510502_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054523411.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054523411.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054523411_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054531413.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054531413.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054531413_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054535493.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054535493.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054535493_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054538478.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054538478.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054538478_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054545484.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054545484.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054545484_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054551274.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054551274.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054551274_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054554764.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054554764.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054554764_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054566727.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054566727.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054566727_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054569393.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054569393.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054569393_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054572626.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054572626.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054572626_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054575042.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054575042.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054575042_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054585935.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054585935.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054585935_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054587266.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054587266.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054587266_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054588804.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054588804.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054588804_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054604942.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054604942.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054604942_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054609768.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054609768.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054609768_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054614248.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054614248.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054614248_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054617211.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054617211.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054617211_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054621338.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054621338.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054621338_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054660189.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054660189.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054660189_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054665101.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054665101.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054665101_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054672558.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054672558.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054672558_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054677543.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054677543.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054677543_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054685230.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054685230.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054685230_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054691158.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054691158.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054691158_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054702744.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054702744.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054702744_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054708559.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054708559.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054708559_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054716877.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054716877.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054716877_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054726971.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054726971.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054726971_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054738339.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054738339.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054738339_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054741224.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054741224.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054741224_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054763949.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054763949.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054763949_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054773839.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054773839.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054773839_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054777925.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054777925.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054777925_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,06 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054794486.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054794486.Template
+         Generating method body for html1()
+         Generating method body for html2()
+         Generating method body for html3()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054794486_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054807655.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054807655.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054807655_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054808943.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054808943.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054808943_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054811943_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815206.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815206.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815206_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815260.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815260.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054815260_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054824719_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054827758_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054850974.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054850974.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054850974_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054851988_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054856546_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054867354_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054869897_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054872702_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054873590_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054877098_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054885303_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054886343_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054891088_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054897068_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054906627_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054908439_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054917391_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054920239_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054932260_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054942925_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054947144.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054947144.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054947144_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054949552.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054949552.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054949552_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054954102.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054954102.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054954102_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054957183.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054957183.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054957183_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054963719.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054963719.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054963719_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054967441.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054967441.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054967441_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054970910.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054970910.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054970910_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054985564.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054985564.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054985564_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054990024.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054990024.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,04 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054990024_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054991143.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054991143.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054991143_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054994589.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054994589.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054994589_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054999404.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054999404.Template
+         Generating method body for html1()
+         Generating method body for html2()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381054999404_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055000452.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055000452.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055000452_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055005230.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055005230.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055005230_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055012846.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055012846.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055012846_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055019007.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055019007.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055019007_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Public resources found in...
+Translatable source found in...
+Found 2940 cached/archived units.  Used 2940 / 2940 units from cache.
+Compiling...
+   Compilation completed in 0,00 seconds
+Validating units:
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxGwtTest.java'
+      [ERROR] Line 21: No source code is available for type com.google.gwt.junit.client.GWTTestCase; did you forget to inherit a required module?
+   [ERROR] Errors in 'file:/C:/Users/sandi/git/DockLayoutPanel/projekt/src/test/java/com/sandi/client/SandboxJukitoTest.java'
+      [ERROR] Line 28: No source code is available for type org.jukito.JukitoModule; did you forget to inherit a required module?
+      [ERROR] Line 36: No source code is available for type org.junit.Assert; did you forget to inherit a required module?
+Removing invalidated units
+Finding entry point classes
+Rebinding com.google.gwt.i18n.client.impl.LocaleInfoImpl
+   Invoking generator com.google.gwt.i18n.rebind.LocaleInfoGenerator
+      Processing interface com.google.gwt.i18n.client.constants.NumberConstantsImpl
+         Generating method body for notANumber()
+         Generating method body for currencyPattern()
+         Generating method body for decimalPattern()
+         Generating method body for decimalSeparator()
+         Generating method body for defCurrencyCode()
+         Generating method body for exponentialSymbol()
+         Generating method body for globalCurrencyPattern()
+         Generating method body for groupingSeparator()
+         Generating method body for infinity()
+         Generating method body for minusSign()
+         Generating method body for monetaryGroupingSeparator()
+         Generating method body for monetarySeparator()
+         Generating method body for percent()
+         Generating method body for percentPattern()
+         Generating method body for perMill()
+         Generating method body for plusSign()
+         Generating method body for scientificPattern()
+         Generating method body for simpleCurrencyPattern()
+         Generating method body for zeroDigit()
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039215.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039215.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039215_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039863.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039863.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055039863_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055046051.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055046051.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055046051_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055047180.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055047180.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055047180_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055069988.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055069988.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055069988_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055075762.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055075762.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055075762_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055079314.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055079314.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055079314_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055086842.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055086842.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055086842_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055122884.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055122884.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055122884_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055125026.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055125026.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055125026_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,03 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055128203.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055128203.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055128203_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,08 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055150076.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055150076.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055150076_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,02 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055151604.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055151604.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055151604_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055184241.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055184241.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055184241_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView.Binder
+   Adding '3' new generated units
+      Compiling...
+         Compilation completed in 0,07 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055195985.Template
+   Invoking generator com.google.gwt.safehtml.rebind.SafeHtmlTemplatesGenerator
+      Constructing interface com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055195985.Template
+         Generating method body for html1()
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,00 seconds
+      Removing invalidated units
+Rebinding com.sandi.client.application.home.HomePageView_BinderImpl_designTime1381055195985_GenBundle
+   Adding '1' new generated units
+      Compiling...
+         Compilation completed in 0,01 seconds
+      Removing invalidated units
