@@ -2,6 +2,6 @@
              xmlns:g='urn:import:com.google.gwt.user.client.ui'>
     <g:SimplePanel>
     	<g:HTMLPanel height="139px">
-    		<g:Button width="101px" text="ok"/>Center</g:HTMLPanel>
+    		<g:Button width="103px" text="ok"/>Center</g:HTMLPanel>
     </g:SimplePanel>
 </ui:UiBinder>
